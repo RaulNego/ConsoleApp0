@@ -1,5 +1,7 @@
 Assignment:
-Usage: dotnet run positive|negative|functional
+
+Download the project, then run one of the three commands like shown below, for the three different cases (1 argument only):
+dotnet run positive|negative|functional
 
 SQL:
 
